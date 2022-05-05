@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello, My Friends  
 Thank you for having interest in this repository ! 
 
@@ -16,3 +17,6 @@ You can watch the tutorial for this app.
 https://www.youtube.com/channel/UCFyXA9x8lpL3EYWeYhj4C4Q?view_as=subscriber
 
 
+=======
+# React-shop
+>>>>>>> 39e765dd4fdb30b39ad9731d01fd6ae2dbb48466
